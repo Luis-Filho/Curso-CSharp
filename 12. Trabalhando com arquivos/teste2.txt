@@ -1,2 +1,4 @@
 good morning
-good evening
+good eveningGOOD MORNING
+GOOD AFTERNOON
+GOOD EVENING
